@@ -1,0 +1,14 @@
+{
+  "name": "deliveroo_cron_parser",
+  "version": "1.0.0",
+  "description": "crom parser for take home assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Rishabh Aggarwal",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.6.1"
+  }
+}
